@@ -1,0 +1,100 @@
+{
+  "status": "passed",
+  "progid": "Apwn.Document.41.0",
+  "input": "examples/smoke.inp",
+  "input_sha256": "1f0b15d9e2b4dfd679d3ec9ab2ad25132490f91598f00d8a593e98eb796c6c6c",
+  "first_run": {
+    "before": {
+      "HAP_COMPSTATUS": 2105474,
+      "input_incomplete": false,
+      "engine_ready": true,
+      "next_incomplete": [
+        "",
+        0
+      ]
+    },
+    "after": {
+      "HAP_COMPSTATUS": 9345,
+      "input_incomplete": false,
+      "engine_ready": false,
+      "next_incomplete": [
+        "",
+        0
+      ]
+    },
+    "feed": {
+      "value": 102.0,
+      "unit": "kg/hr"
+    },
+    "eff": {
+      "value": 102.0,
+      "unit": "kg/hr"
+    },
+    "mass_residual_kg_h": 0.0,
+    "solver_errors": [],
+    "warning_lines": []
+  },
+  "reopened_document": {
+    "before": {
+      "HAP_COMPSTATUS": 2105474,
+      "input_incomplete": false,
+      "engine_ready": true,
+      "next_incomplete": [
+        "",
+        0
+      ]
+    },
+    "after": {
+      "HAP_COMPSTATUS": 9345,
+      "input_incomplete": false,
+      "engine_ready": false,
+      "next_incomplete": [
+        "",
+        0
+      ]
+    },
+    "feed": {
+      "value": 102.0,
+      "unit": "kg/hr"
+    },
+    "eff": {
+      "value": 102.0,
+      "unit": "kg/hr"
+    },
+    "mass_residual_kg_h": 0.0,
+    "solver_errors": [],
+    "warning_lines": []
+  },
+  "reopened_archive": {
+    "before": {
+      "HAP_COMPSTATUS": 2105474,
+      "input_incomplete": false,
+      "engine_ready": true,
+      "next_incomplete": [
+        "",
+        0
+      ]
+    },
+    "after": {
+      "HAP_COMPSTATUS": 9345,
+      "input_incomplete": false,
+      "engine_ready": false,
+      "next_incomplete": [
+        "",
+        0
+      ]
+    },
+    "feed": {
+      "value": 102.0,
+      "unit": "kg/hr"
+    },
+    "eff": {
+      "value": 102.0,
+      "unit": "kg/hr"
+    },
+    "mass_residual_kg_h": 0.0,
+    "solver_errors": [],
+    "warning_lines": []
+  },
+  "elapsed_seconds": 46.00852259999374
+}
